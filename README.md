@@ -28,9 +28,4 @@ The final analysis includes the following aspects:
 ![CryptoClustering 3](https://user-images.githubusercontent.com/24644072/226231058-fb6878de-924a-46a8-af06-7e90ba2a9631.png)
 
 
-<<<<<<< HEAD
 ![CryptoClustering 4](https://user-images.githubusercontent.com/24644072/226231064-0212e9bd-3943-443a-9250-528adf50fc34.png)
-=======
-![CryptoClustering 4](https://user-images.githubusercontent.com/24644072/226231064-0212e9bd-3943-443a-9250-528adf50fc34.png)
-
->>>>>>> cf7bb29348d19fd8f3af2525bcaee929380577c8
