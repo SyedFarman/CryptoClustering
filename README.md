@@ -5,16 +5,16 @@ Project aims to use unsupervised learning to analyze and group cryptocurrencies 
 
 The final analysis includes the following aspects:
 
-Preprocessing the data for PCA
-Reducing Data Dimensions using PCA
-Clustering cryptocurrencies using K-Means
-Visualizing cryptocurrencies results
+- Preprocessing the data for PCA
+- Reducing Data Dimensions using PCA
+- Clustering cryptocurrencies using K-Means
+- Visualizing cryptocurrencies results
 
 
 ## Resources
-Data Source: crypto_data.csv
-Software: Python 3.7, Jupyter Notebook
-Libraries - scikit-learn, pandas, hvplot, plotly
+- Data Source: crypto_data.csv
+- Software: Python 3.7, Jupyter Notebook
+- Libraries - scikit-learn, pandas, hvplot, plotly
 
 ## Results
 
